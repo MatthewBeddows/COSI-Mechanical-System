@@ -1,0 +1,5 @@
+[Module Name] COSI-Mechanical-System
+
+[Module Info] Mechanical parts for the COSI system.
+
+[Requirements]
